@@ -1,0 +1,32 @@
+Ejercicio 1 — Estructuras de datos
+Explicá con tus palabras la diferencia entre:
+
+Lista
+Tupla
+Conjunto
+Diccionario
+Para cada estructura, indicá un ejemplo de situación donde podría resultar útil.
+
+La diferencia entre las diferentes estructuras de datos radica en 3 pilares, si se puede cambiar, si admiten duplicados y si tiene orden. 
+Las listas son un conjunto de datos de los cuales se pueden eliminanar, agregar o cambiar, pueden existir duplicados y tienen un orden ya 
+que podes llamar cirto dato por su indice.
+Las tuplas a diferencia del resto de estructuras no puede ser camiada de ninguna forma pero al igual que la lista permite duplicados y 
+tiene un orden.
+Los conjuntos(set) no tienen orden, no aceptan duplicados pero si son mutables
+Los diccionarios son estructuras que funcionan en base a una clave:valor, que al llamar a la clave te devolvera su valor, los diccionarios 
+no tienen un orden por el cual puedas llamarlos usando un indice, no permiten duplicados en sus claves pero si en sus valores y son 
+mutables.
+
+Ejemplos:
+Listas:
+Una lista de supermercado es un ejemplo perfecto de uso de listas, ya que se pueden agregar, eliminar o repetir datos (productos) segun se desee.
+
+Tupla:
+El ejemplo mas comun de tuplas es para uso de coordenadas, ya que ese punto en el mapa no cambiara de posicion.
+
+Conjuntos:
+Se puede usar para registros de miembros, ya que no habra dos registros con la misma identificacion y no importaria su orden de llegada
+
+Diccionarios:
+Se puede usar para una red social, ya que podes vincular datos como edad, nombre, etc y los cuales pueden ser cambiados pero sus claves
+no, manteniendo la estructura.
